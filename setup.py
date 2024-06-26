@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.profiles-config',
-    version='0.1.0',
+    version='0.1.1',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
     description='A basic package for managing profile based configuration files.',
